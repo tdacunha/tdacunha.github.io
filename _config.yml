@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Tara Dacunha"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Candidate in Physics"
+  location         : "Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tdacunha@stanford.edu" 
 
   # Academic websites
   academia         : # URL
