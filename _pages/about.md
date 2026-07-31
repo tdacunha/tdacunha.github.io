@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-About Me
+
 ------
 I am a 5th and final year Physics PhD candidate at Stanford University in the [Kavli Institute for Particle Astrophysics & Cosmology (KIPAC)](https://kipac.stanford.edu/).
 I am advised by [Risa Wechsler](https://www.risawechsler.com/) and part of her [Galaxy Formation & Cosmology group](https://gfc.stanford.edu/).
