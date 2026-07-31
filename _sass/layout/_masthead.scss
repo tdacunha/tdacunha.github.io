@@ -3,12 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  background-color: #fff;
-  color: #62989c;
-
-  a {
-    color: #62989c;
-  }
+  
   position: fixed;
   background: var(--global-bg-color);
   height: fit-content;
@@ -47,6 +42,12 @@
     a {
       text-decoration: none;
     }
+  }
+   background-color: #fff;
+  color: #62989c;
+
+  a {
+    color: #62989c;
   }
 }
 
