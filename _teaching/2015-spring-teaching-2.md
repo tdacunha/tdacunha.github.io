@@ -2,7 +2,6 @@
 title: "TA"
 collection: teaching
 type: "PHYSICS 42: Electricity & Magnetism"
-permalink: /teaching/teaching-2
 venue: "Stanford University, Department of Physics"
 date: 2023
 ---
