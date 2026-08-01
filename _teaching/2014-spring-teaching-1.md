@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "TA Active Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "ASTRO 007: The Big Bang & Beyond"
+permalink: /teaching/teaching-1
+venue: "University of Pennsylvania, Department of Physics & Astronomy"
+date: 2021
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+While an undergraduate at the University of Pennsylvania, I served as the teaching assistant and grader for the active learning non-major course ASTRO 007: The Big Bang & Beyond taught by Gary Bernstein. Students learned a variety of cosmology-related topics and worked on intuition building problems in small groups.
