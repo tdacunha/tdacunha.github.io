@@ -14,8 +14,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Outreach & Communication"
+    url: /outreach/    
+
+  - title: "Teaching & Mentoring"
     url: /teaching/    
+    
     
   - title: "Astro Illustrations"
     url: /portfolio/
