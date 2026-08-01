@@ -2,7 +2,6 @@
 title: "TA Active Learning"
 collection: teaching
 type: "ASTRO 007: The Big Bang & Beyond"
-permalink: /teaching/teaching-1
 venue: "University of Pennsylvania, Department of Physics & Astronomy"
 date: 2021
 ---
