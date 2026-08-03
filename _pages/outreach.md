@@ -18,16 +18,54 @@ author_profile: true
 
 ## Photos
 
+<style>
+  .outreach-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .outreach-gallery figure {
+    margin: 0;
+  }
+
+  .outreach-gallery img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+  }
+
+  .outreach-gallery figcaption {
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+</style>
+
+{% assign outreach_photo_count = 0 %}
+{% for image in site.static_files %}
+  {% if image.path contains '/images/outreach/' %}
+    {% assign extension = image.extname | downcase %}
+    {% if extension == '.jpg' or extension == '.jpeg' or extension == '.png' or extension == '.webp' or extension == '.gif' %}
+      {% assign outreach_photo_count = outreach_photo_count | plus: 1 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if outreach_photo_count > 0 %}
+<div class="outreach-gallery">
+{% for image in site.static_files %}
+  {% if image.path contains '/images/outreach/' %}
+    {% assign extension = image.extname | downcase %}
+    {% if extension == '.jpg' or extension == '.jpeg' or extension == '.png' or extension == '.webp' or extension == '.gif' %}
+      {% assign photo_title = image.basename | replace: '_', ' ' | replace: '-', ' ' %}
+      <figure>
+        <img src="{{ image.path | relative_url }}" alt="{{ photo_title }}">
+        <figcaption>{{ photo_title }}</figcaption>
+      </figure>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+{% else %}
 Photos from outreach events will be added here.
-
-<!--
-To add a photo:
-1. Put the image in /images/outreach/.
-2. Copy the figure below, remove the surrounding comment markers, and update
-   the filename, alternative text, and caption.
-
-<figure>
-  <img src="/images/outreach/example.jpg" alt="Describe the event and people shown">
-  <figcaption>Event name, year. Photo credit: Name.</figcaption>
-</figure>
--->
+{% endif %}
