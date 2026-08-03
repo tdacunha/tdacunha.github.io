@@ -35,10 +35,6 @@ author_profile: true
     object-fit: cover;
   }
 
-  .outreach-gallery figcaption {
-    margin-top: 0.5rem;
-    text-align: center;
-  }
 </style>
 
 {% assign outreach_photo_count = 0 %}
@@ -57,10 +53,8 @@ author_profile: true
   {% if image.path contains '/images/outreach/' %}
     {% assign extension = image.extname | downcase %}
     {% if extension == '.jpg' or extension == '.jpeg' or extension == '.png' or extension == '.webp' or extension == '.gif' %}
-      {% assign photo_title = image.basename | replace: '_', ' ' | replace: '-', ' ' %}
       <figure>
-        <img src="{{ image.path | relative_url }}" alt="{{ photo_title }}">
-        <figcaption>{{ photo_title }}</figcaption>
+        <img src="{{ image.path | relative_url }}" alt="Outreach event photo">
       </figure>
     {% endif %}
   {% endif %}
