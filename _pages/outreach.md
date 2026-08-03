@@ -6,8 +6,10 @@ author_profile: true
 
 ## Outreach & service
 
+- **Member & designer**, KIPAC Communications Committee (2026)
+- **Guest lecturer**, Stanford Program for Inspiring the Next Generation of Women in Physics (2026)
 - **Interview panelist**, KIPAC communications associate search (2026)
-- **Artist and science communication volunteer**, [KIPAC Research Highlights](https://kipac.stanford.edu/research/research-highlights) (2026)
+- **Artist and science communication volunteer**, [KIPAC Research Highlights](https://kipac.stanford.edu/news/research-highlights-0) (2026)
 - **Counselor**, Stanford Program for Inspiring the Next Generation of Women in Physics (2025)
 - **Volunteer**, KIPAC High School Solar Physics Outreach (2025)
 - **Booth leader & activity developer**, KIPAC Community Day dark matter booth (2025)
