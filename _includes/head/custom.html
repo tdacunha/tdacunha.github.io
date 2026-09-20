@@ -37,4 +37,16 @@
     padding: 20px !important;
     border-radius: 8px !important;
   }
+
+  /* Slightly zoom the sidebar profile photo without changing layout */
+  .sidebar .author__avatar {
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+  .sidebar .author__avatar img {
+    transform: scale(1.18);
+    transform-origin: center 28%;
+    object-fit: cover;
+  }
 </style>

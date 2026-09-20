@@ -6,15 +6,17 @@ author_profile: true
 
 ## 2026
 
+- Probe Combination for Dark Matter Physics — KICP, University of Chicago
+- Via All-hands Virtual Meeting: SubMERGE Model Update
 - Near Field Cosmology in the Era of Big Data — The Fields Institute
 - European Astronomical Society (EAS) Meeting — Special Session 1
 - Via All-hands Workshop lightning talk — Harvard & Smithsonian Center for Astrophysics
-- Via All-hands Virtual Meeting
+- Via All-hands Virtual Meeting: Subhalo Mass Loss Modeling
 - Galaxy Formation & Cosmology Group — KIPAC, Stanford University
 
 ## 2025
 
-- Via Workshop talk on stellar stream outreach — Yale University
+- Via All-hands Workshop talk on stellar stream outreach — Yale University
 - Poster — IAU Symposium 403: The Hidden Beauty of the Galactic Outskirts
 - KIPAC Tea Talk — KIPAC, Stanford University
 - Via Streams Virtual Meeting
@@ -27,6 +29,5 @@ author_profile: true
 ## Earlier presentations
 
 - X-ray Astronomy and Observational Cosmology Group — KIPAC, Stanford University (2022)
-- Large-Scale Structure Group — University of Pennsylvania (2021)
+- Large Scale Structure Group — University of Pennsylvania (2021)
 - Plotkin-Akcay Group — University of Pennsylvania (2020)
-- Penn Data Science Hangout — University of Pennsylvania (2019)
