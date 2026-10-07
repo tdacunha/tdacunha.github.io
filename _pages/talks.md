@@ -6,10 +6,10 @@ author_profile: true
 
 ## 2026
 
-- Probe Combination for Dark Matter Physics — KICP, University of Chicago
+- Probe Combination for Dark Matter Physics Workshop — KICP, University of Chicago
 - Via All-hands Virtual Meeting: SubMERGE Model Update
 - Near Field Cosmology in the Era of Big Data — The Fields Institute
-- European Astronomical Society (EAS) Meeting — Special Session 1
+- European Astronomical Society Meeting — Special Session 1
 - Via All-hands Workshop lightning talk — Harvard & Smithsonian Center for Astrophysics
 - Via All-hands Virtual Meeting: Subhalo Mass Loss Modeling
 - Galaxy Formation & Cosmology Group — KIPAC, Stanford University
