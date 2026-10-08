@@ -6,7 +6,12 @@ author_profile: true
 
 You can also find my work on [Google Scholar]({{ site.author.googlescholar }}) and [ORCID]({{ site.author.orcid }}).
 
-## Refereed publications
+## In preparation
+
+1. **SubMERGE: Subhalo Mass Evolution in Realistic Galactic Environments**<br>
+   **Tara Dacunha**, Phil Mansfield, Risa H. Wechsler, and Ethan Nadler. To be submitted to *The Astrophysical Journal* (2026).
+
+## Publications
 
 1. **[Which Milky Way Streams Make the Best Dark Matter Detectors?](https://arxiv.org/abs/2610.00456)**<br>
    Vedant Chandra, Charlie Conroy, Risa Wechsler, Ana Bonaca, Andrew Benson, Jacob Nibauer, **Tara Dacunha**, Philip Mansfield, Paul Menker, and Anya Phillips. *arXiv e-prints*, arXiv:2610.00456 (2026).
@@ -28,8 +33,3 @@ You can also find my work on [Google Scholar]({{ site.author.googlescholar }}) a
 
 7. **[The mass and galaxy distribution around SZ-selected clusters](https://arxiv.org/abs/2105.05914)**<br>
    Tae-hyeon Shin, Bhuvnesh Jain, Susmita Adhikari, Eric J. Baxter, C. Chang, S. Pandey, A. Salcedo, D. H. Weinberg, A. Amsellem, N. Battaglia, et al. *Monthly Notices of the Royal Astronomical Society* **507**(4), 5758–5779 (2021).
-
-## In preparation
-
-1. **SubMERGE: Subhalo Mass Evolution in Realistic Galactic Environments**<br>
-   **Tara Dacunha**, Phil Mansfield, Risa H. Wechsler, and Ethan Nadler. To be submitted to *The Astrophysical Journal* (2026).
