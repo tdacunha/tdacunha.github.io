@@ -6,6 +6,7 @@ author_profile: true
 
 ## 2026
 
+- Theoretical Astrophysics Center (TAC) Seminar — UC Berkeley (invited)
 - Probe Combination for Dark Matter Physics Workshop — KICP, University of Chicago
 - Via All-hands Virtual Meeting: SubMERGE Model Update
 - Near Field Cosmology in the Era of Big Data — The Fields Institute
